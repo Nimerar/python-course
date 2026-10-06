@@ -15,14 +15,18 @@
 #     elif second<i<first:
 #         second=i
 # print(first, second)
-old=[0,1,-5,-8,9,0,10]
-new=[]
-count=0
-for i in old:
-    if i!=0:
-        new.append(i)
-    else:
-        count+=1
-for k in range (0,count):
-    new.append(0)
-print(new)
+# old=[0,1,-5,-8,9,0,10]
+# new=[]
+# count=0
+# for i in old:
+#     if i!=0:
+#         new.append(i)
+#     else:
+#         count+=1
+# for k in range (0,count):
+#     new.append(0)
+# print(new)
+sp=[]
+
+while True:
+    a=input(f"1.Добавить/Ad \n 2.")
