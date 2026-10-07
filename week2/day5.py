@@ -27,6 +27,3 @@
 #     new.append(0)
 # print(new)
 sp=[]
-
-while True:
-    a=input(f"1.Добавить/Ad \n 2.")
